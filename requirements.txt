@@ -1,0 +1,18 @@
+# Web framework
+flask==2.2.3        # Web framework for building web applications
+
+# Database
+pymongo==4.5.0      # MongoDB driver for Python
+sqlalchemy==2.0.18  # SQL toolkit and Object-Relational Mapping (ORM) library
+
+# Data handling
+pandas==2.0.1       # Data manipulation and analysis library
+numpy==1.24.3       # Numerical computing library
+
+# Testing
+pytest==7.4.0       # Testing framework
+pytest-mock==3.12.2 # Provides mock functionality for pytest
+
+# Optional: For linting and formatting
+flake8==6.0.0       # Linter for Python
+black==23.8.0       # Code formatter for Python
